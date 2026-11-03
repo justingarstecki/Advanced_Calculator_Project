@@ -157,6 +157,20 @@ classDiagram
 
 ---
 
+## Getting Started
+
+### Obtaining the Software
+You can download or clone the Advanced Calculator Project directly from this GitHub repository:
+
+`https://github.com/justingarstecki/Advanced_Calculator_Project`
+
+### Providing Feedback
+If you discover a bug, experience an issue, or have an idea for an improvement, please submit an issue through our [GitHub Issues](https://github.com/justingarstecki/Advanced_Calculator_Project/issues) page.
+
+### Contributing
+Contributions are welcome! If you would like to improve the calculator, fix bugs, or add features, please review our [Contributing Guidelines](https://github.com/justingarstecki/Advanced_Calculator_Project/blob/main/CONTRIBUTING.md) before submitting a pull request.
+
+
 ## How to Run
 
 1. Open the project in Qt Creator
