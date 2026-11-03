@@ -179,6 +179,22 @@ Contributions are welcome! If you would like to improve the calculator, fix bugs
 
 ---
 
+## Requirements for Acceptable Contributions
+
+To ensure contributions are consistent and maintainable, please follow these guidelines:
+
+- Write code in C++ using clear and descriptive variable and function names.
+- Maintain consistent formatting and indentation throughout the project.
+- Keep code organized and avoid unnecessary duplication.
+- Include comments when necessary to explain complex logic.
+- Make sure changes do not break existing calculator functionality.
+- Test new features and bug fixes before submitting a pull request.
+- Provide a clear description of the changes made in your pull request.
+
+Contributions that do not follow these guidelines may require revisions before being accepted.
+
+---
+
 ## AI Use
 AI was used as a support tool to help review code structure, improve the README, and troubleshoot errors. The code was reviewed and understood by the team before submission.
 
