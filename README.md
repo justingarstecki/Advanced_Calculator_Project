@@ -2,6 +2,8 @@
 
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/justingarstecki/Advanced_Calculator_Project/badge)](https://securityscorecards.dev/viewer/?uri=github.com/justingarstecki/Advanced_Calculator_Project)
 
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/16284/badge)](https://www.bestpractices.dev/projects/16284)
+
 ## Overview
 
 This project is a GUI-based calculator built using C++ and Qt. It started as a basic calculator but was expanded to include advanced math functions and a more interactive history system.
